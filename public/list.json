@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=826"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Book",
+        "title": "Explore the world of adventures and mysteries.",
+        "price": 15.99,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/adventure-book-cover_1234567.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Science Book",
+        "title": "Dive into the wonders of science and technology.",
+        "price": 20.5,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/science-book-cover_1234567.jpg"
+    },
+    {
+        "id": 4,
+        "name": "History Book",
+        "title": "A journey through the pages of history.",
+        "price": 12.75,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/history-book-cover_1234567.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Book",
+        "title": "Enter a world of magic and fantasy.",
+        "price": 18.99,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/fantasy-book-cover_1234567.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cooking Book",
+        "title": "Delicious recipes for every occasion.",
+        "price": 10.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/cooking-book-cover_1234567.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Travel Guide",
+        "title": "Your ultimate guide to travel destinations.",
+        "price": 25.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/travel-guide-cover_1234567.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Art Book",
+        "title": "A collection of stunning artworks.",
+        "price": 30.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/art-book-cover_1234567.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Programming Book",
+        "title": "Learn to code with practical examples.",
+        "price": 40.0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/programming-book-cover_1234567.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Health Book",
+        "title": "Tips and tricks for a healthy lifestyle.",
+        "price": 22.5,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/health-book-cover_1234567.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mystery Book",
+        "title": "Unravel the secrets hidden within.",
+        "price": 19.99,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/mystery-book-cover_1234567.jpg"
+    }
+]
